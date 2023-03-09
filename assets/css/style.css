@@ -1497,6 +1497,11 @@ body {
   #PROJECT
 \*-----------------------------------*/
 
+.filter-notice {
+  font-weight: bold; 
+  font-style: italic;
+}
+
 .project { background-color: var(--ghost-white); }
 
 .project .section-title { margin-block: 20px 60px; }
